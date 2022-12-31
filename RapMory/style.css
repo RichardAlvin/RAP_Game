@@ -1,0 +1,24 @@
+.container {
+  margin: 5%;
+  justify-content: center;
+}
+
+nav {
+  text-align: center;
+}
+
+#grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+img {
+  width: 100px;
+}
+
+.container2 {
+  height: 300px;
+  text-align: center;
+  margin-top: 50px;
+}
